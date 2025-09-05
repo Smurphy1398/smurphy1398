@@ -15,7 +15,7 @@ My journey in information technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | Quantitative Business Analysis, Wix, GCP, Python, Web App Deployment          | <a href="https://google.com">Capstone Project</a>|
 | Linux, Apache, MySQL, PHP, Web App Development | <a href="https://google.com">LAMP Stack Project</a>|
-| AWS Cloud Development Sandboxing        | <a href="https://google.com">AWS Cloud Development Project</a>|
+| Cloud Development Labs     | <a href="https://google.com">AWS Cloud Development Project</a>|
 
 ## Tools
 This is a list of various tools and skills that I have experience using and applying to various projects with in my eduaction and overall information technology journey.
@@ -30,10 +30,16 @@ This is a list of various tools and skills that I have experience using and appl
  - Apache Software
  - Wireshark
  - Nmap
+ - Legion
+ - Nikto
+ - Metasploit Framework
+ - Snort
+ - Hydra
  - Amazon EC2
  - GCP
  - Azure
  - MySQL
+ - MySQL Workbench
 
 ## Certifications
 I have obtianed both CompTIA Network+ and CompTIA Security+ certifications.
@@ -43,11 +49,14 @@ I have obtianed both CompTIA Network+ and CompTIA Security+ certifications.
 </div>
 
 ## Project Overview
-- Capstone Project
-- LAMP Stack Project
-- AWS Cloud Development Project
+Relevant IT projects and labs that I completed (and contributed to) from my time in college.
+- Team Capstone Project (Quantitative Business Analysis, Wix, GCP, Python, Web App Deployment)
+- LAMP Stack Project 1 (VMs, UBUNTU LINUX, Apache, MySQL, PHP, Web App Development)
+- LAMP Stack Project 2 (VMs, KALI LINUX, NMAP, Wireshark, Legion, Nikto, Metasploit Framework, Snort, Hydra)
+- Cloud Deployment Labs (AWS, GCP, AZURE, MySQL Workbench)
 
-## Written Reports / Formal Research
+## Written Reports and Formal Research
+Relevant IT written reports and research of mine, from my time in college.
  - Quantum Computing
  - Recommendation for Cloud Computing
  - An Overview of Blockchain Technology 
@@ -56,4 +65,7 @@ I have obtianed both CompTIA Network+ and CompTIA Security+ certifications.
  - Automated Stackable Vegetable Farms
  - Virtual and Augmented Reality: Privacy, Security, and Vulnerability
  - Middle School Cybersecurity Education and Security Awareness Through Virtual Reality
+ - Recovering from BAEs Problematic Implementation of Automated Systems
  - Stuxnet Overview (Zero Days)
+ - An Overview of PRINCE2
+ - An Overview of Six Sigma
