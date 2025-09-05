@@ -7,7 +7,7 @@ I am a recent George Mason University graduate with a Bachelor's Degree in IT Cy
 
 My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this career field.
 
-## Skills
+## Skills / Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -15,15 +15,22 @@ My journey in information technology has led me to develop a passion for cyberse
 | Linux, Apache, MySQL, PHP, Web App Development | <a href="https://google.com">LAMP Stack Project</a>|
 | AWS Cloud Development Sandboxing        | <a href="https://google.com">AWS Cloud Development Project</a>|
 
-## Tools
-This is a list of various tools and software that I have experience using and applying to various projects with in my eduaction and overall information technology journy.
+## Tools / Skills
+This is a list of various tools and skills that I have experience using and applying to various projects with in my eduaction and overall information technology journy.
  - Linux (Ubuntu, Kali)
  - Oracle VirtualBox
+ - VMware
  - Python
+ - Java
+ - HTML
+ - CSS
+ - PHP
  - Apache Software
  - Wireshark
  - Nmap
  - Amazon EC2
+ - GCP
+ - Azure
  - MySQL
 
 ## Certifications
