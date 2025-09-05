@@ -1,6 +1,8 @@
 # Hello, I'm SIMON MURPHY
 <a href="https://www.linkedin.com/in/smurphy1398/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+*NOTE: This GitHub portfolio is currently a work in progress, I am working on including projects, as of now there is only a rough outline.*
+
 I am a recent George Mason University graduate with a Bachelor's Degree in IT Cybersecurity. I have a profound interest in technology, a dedication to continuous learning and solving complex problems.
 
 ## Objective
