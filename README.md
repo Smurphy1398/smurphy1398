@@ -44,5 +44,10 @@ I have obtianed both CompTIA Network+ and CompTIA Security+ certifications.
 
 ## Project Overview
 - Capstone Project
-- LAMP Stack
+- LAMP Stack Project
 - AWS Cloud Development Project
+
+## Written Reports / Formal Research
+ - Quantum Computing
+ - Autonomous Vehicles
+ - 
