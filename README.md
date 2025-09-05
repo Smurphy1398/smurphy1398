@@ -49,5 +49,11 @@ I have obtianed both CompTIA Network+ and CompTIA Security+ certifications.
 
 ## Written Reports / Formal Research
  - Quantum Computing
- - Autonomous Vehicles
- - 
+ - Recommendation for Cloud Computing
+ - An Overview of Blockchain Technology 
+ - Advanced Persistent Threats
+ - Analyzing Orchestration Within Security
+ - Automated Stackable Vegetable Farms
+ - Virtual and Augmented Reality: Privacy, Security, and Vulnerability
+ - Middle School Cybersecurity Education and Security Awareness Through Virtual Reality
+ - Stuxnet Overview (Zero Days)
